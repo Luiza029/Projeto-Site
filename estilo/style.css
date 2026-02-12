@@ -22,3 +22,13 @@ h1{
 h2{
     font-size: 2em;
 }
+
+img.html{
+    width: 100px;
+    float: right;
+}
+
+img.js{
+    width: 200px;
+    float: right;
+}
